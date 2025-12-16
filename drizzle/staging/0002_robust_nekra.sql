@@ -1,0 +1,1 @@
+ALTER TABLE "feedbacks" DROP COLUMN IF EXISTS "created_at";
